@@ -1,4 +1,4 @@
 Header set Access-Control-Allow-Origin *
 Options +FollowSymLinks
 RewriteEngine on
-RewriteRule ^\/?(.*)$ http://valueflo.ws/$1 [R=303,L]
+RewriteRule ^\/?(.*)$ https://valueflo.ws/ns/$1 [R=303,L]
